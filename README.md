@@ -1,2 +1,2 @@
-# Deep-Math-Solver
+# DeepMathSolver
 The project’s objective is to develop a deep learning-based mathematical problem-solving artificial intelligence (AI) system. This AI system will possess the capability to comprehend and resolve mathematical problems encompassing algebra, calculus, and geometry, among others. Additionally, it will generate comprehensive problem-solving sequences. The system will support text input or handwriting OCR recognition and convert solutions into LaTeX formulas for formatting purposes.
